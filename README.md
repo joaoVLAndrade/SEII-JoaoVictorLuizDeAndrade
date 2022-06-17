@@ -29,6 +29,22 @@ link: https://www.youtube.com/watch?v=1-R5b3dTvhs
 link: https://www.youtube.com/watch?v=fKl2JW_qrso&ab_channel=CoreySchafer
 
 ### Python Threading Tutorial: Run Code Concurrently Using the Threading Module
-*Autor: Corey Schafer*
+*Autor: Tech With Tim*
 
 link: https://www.youtube.com/watch?v=IEEhzQoKtQU&ab_channel=CoreySchafer
+
+### Python Socket Programming Tutorial
+*Autor: Corey Schafer*
+
+link: https://www.youtube.com/watch?v=3QiPPX-KeSc&ab_channel=TechWithTim
+
+
+### Comunicação em Rede
+*Autor: Prof. Carlos Maziero*
+
+link: http://wiki.inf.ufpr.br/maziero/doku.php?id=pua:comunicacao_em_rede#:~:text=Um%20socket%20%C3%A9%20uma%20interface,distintas%2C%20atrav%C3%A9s%20de%20uma%20rede.
+
+### O QUE SÃO E COMO FUNCIONAM OS SOCKETS
+*Autor: Gustavo Pantuzar*
+
+link: https://blog.pantuza.com/artigos/o-que-sao-e-como-funcionam-os-sockets
