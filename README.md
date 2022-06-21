@@ -48,3 +48,24 @@ link: http://wiki.inf.ufpr.br/maziero/doku.php?id=pua:comunicacao_em_rede#:~:tex
 *Autor: Gustavo Pantuzar*
 
 link: https://blog.pantuza.com/artigos/o-que-sao-e-como-funcionam-os-sockets
+
+### Live 5: Recriando a interface do WhatsApp no Kivy!
+*Autor: HashLDashr*
+
+link: https://www.youtube.com/watch?v=cH7oEVeNssk&ab_channel=HashLDash
+
+### Simple Python App with Kivy - Step by Step GUI Tutorial
+*Autor: Python Simplified*
+
+link: https://www.youtube.com/watch?v=YDp73WjNISc
+
+### Simple Python App with Kivy - Step by Step GUI Tutorial
+*Autor: Python Simplified*
+
+link: https://www.youtube.com/watch?v=YDp73WjNISc
+
+### Kivy Tutorial Series
+*Autor: Tech With Tim*
+
+link: https://www.youtube.com/watch?v=AS3b70pLYEU&ab_channel=TechWithTim
+
