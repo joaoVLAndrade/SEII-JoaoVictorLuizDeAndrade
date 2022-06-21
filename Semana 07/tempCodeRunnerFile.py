@@ -1,2 +1,0 @@
-class BoxLayout(Widget):
-    pass
