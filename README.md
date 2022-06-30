@@ -69,3 +69,23 @@ link: https://www.youtube.com/watch?v=YDp73WjNISc
 
 link: https://www.youtube.com/watch?v=AS3b70pLYEU&ab_channel=TechWithTim
 
+### A diferença entre HTML, CSS e JavaScript - @Curso em Vídeo HTML5 e CSS3
+*Autor: Curso em video*
+
+link: https://www.youtube.com/watch?v=B4FU3NFRTDw&ab_channel=CursoemV%C3%ADdeo
+
+### Como criar uma calculadora com HTML, CSS e JavaScript - Tutorial
+*Autor: Joaby Oliveira*
+
+link: https://www.youtube.com/watch?v=Jbv9AQDdVZ4&ab_channel=JoabyOliveira
+
+### Site Responsivo HTML5 e CSS3
+*Autor: Hostinger Brasil*
+
+link: https://www.youtube.com/watch?v=gRIWFYRaVto
+
+### Criando um site simples com bootstrap 4
+*Autor: Fábio Souza*
+
+link: https://www.youtube.com/watch?v=6AibbyBE0Fg
+
