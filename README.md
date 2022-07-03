@@ -89,3 +89,22 @@ link: https://www.youtube.com/watch?v=gRIWFYRaVto
 
 link: https://www.youtube.com/watch?v=6AibbyBE0Fg
 
+### Static vs Dynamic Websites - What's the Difference?
+*Autor: Academind*
+
+link: https://www.youtube.com/watch?v=_wFJj94kSTU&ab_channel=Academind
+
+### Front-end, Back-end e Full stack - @Curso em Vídeo HTML5 e CSS3
+*Autor: Curso em video*
+
+https://www.youtube.com/watch?v=iSqf2iPqJNM
+
+### Full stack Python Flask tutorial - Build a social network
+*Autor: John G. Fisher/FreeCodeCampOrg*
+
+https://www.youtube.com/watch?v=-FWuNnCe73g&ab_channel=freeCodeCamp.org
+
+###Web Programming with Flask - Intro to Computer Science - Harvard's CS50 (2018)
+*Autor:Harvard University's/FreeCodeCampOrg
+
+https://www.youtube.com/watch?v=zdgYw-3tzfI&ab_channel=freeCodeCamp.org
