@@ -16,4 +16,4 @@ Integrantes:
 
 Orientador: Professor Éder Alves de Moura
 
-Este trabalho tem como objetivo o desenvolvimento de um modelo simulado de um sistema de um aero pêndulo usando a linguagem de programação Python. O programa computacional deve possuir uma interface gráfica que permita o ajuste da posição do pêndulo de acordo com a referência definida pelo usuário.
+Este trabalho tem como objetivo o desenvolvimento de um modelo simulado de um sistema de um aero pêndulo usando a linguagem de programação Python. O programa computacional possui uma interface gráfica que permita o ajuste da posição do pêndulo de acordo com a referência definida pelo usuário.
